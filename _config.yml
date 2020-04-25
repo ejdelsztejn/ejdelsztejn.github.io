@@ -10,12 +10,12 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author: Jessye Ejdelman
-  name: Jessye Ejdelman
-  bio: >-
-    Aspiring software engineer, language-nerd, and lover of geography. Get to know me at <a href="https://github.com/ejdelsztejn" target="_blank" rel="noopener">@github</a>.
-  username: ejdelsztejn
-  email: jessye.ejdelman@gmail.com
-  avatar: /assets/img/avatar.jpg
+name: Jessye Ejdelman
+bio: >-
+  Aspiring software engineer, language-nerd, and lover of geography. Get to know me at <a href="https://github.com/ejdelsztejn" target="_blank" rel="noopener">@github</a>.
+username: ejdelsztejn
+email: jessye.ejdelman@gmail.com
+avatar: /assets/img/avatar.jpg
 
 # Url settings
 url: "ejdelsztejn.github.io"
