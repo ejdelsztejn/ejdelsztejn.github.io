@@ -1,3 +1,10 @@
+---
+title: Refactoring Code: Nested Collections
+date: 2020-05-23
+tags: [blog, ruby, inject, collections, hashes]
+
+---
+
 #### Refactoring Code: Nested Collections in Ruby
 
 I'm currently working through the [**Ruby Exercises**](https://github.com/ejdelsztejn/ruby_exercises) repo for Turing School, and recently I completed  `nesting_test.rb`.  It was a productive struggle for sure, and it's humbling to really take the time to look through the Ruby Docs for [hashes](https://ruby-doc.org/core-2.6.3/Hash.html) and [arrays](https://ruby-doc.org/core-2.6.3/Array.html).
