@@ -4,6 +4,7 @@ date: 2020-05-23
 tags: [blog, ruby, inject, collections, hashes]
 
 ---
+<hr>
 
 #### Refactoring Code: Nested Collections in Ruby
 
