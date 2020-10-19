@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-permalink: /porfolio/
+permalink: /portfolio/
 layout: page
 excerpt:
 comments: false
