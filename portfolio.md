@@ -5,8 +5,6 @@ layout: page
 excerpt:
 comments: false
 ---
-## Portfolio
-
 ### MSET
 
 ![MSET](./assets/img/mset.png)
@@ -31,3 +29,21 @@ Our team was invited to present MSET at Turing Demo Comp on October 6, 2020 (vid
 - I created the CRUD functionality for medications and create the user's medication list, as well as the show page for each medication.
 - I enhanced the user experience for logging a symptom via a more intuitive symptom search function, which utilizes a fuzzy string match Ruby library that uses the Jaro–Winkler distance to measure the edit distance between the search keyword and every symptom in the database.
 - I designed the medication search function and how medication information should be retrieved from the API called. In particular, I parsed HTML using the Nokogiri gem to retrieve and organize potential medication side effects, which were otherwise not accessible without a thorough and complex parsing.
+
+
+
+### Sweater Weather
+
+![Sweater Weather](./assets/img/sweater_weather.png)
+
+#### Overview
+
+Sweater Weather is a Ruby on Rails back-end REST API for a fictional road trip planning application. The app allows users to see the current weather at their destination, future forecasted weather at their destination, and additional information such as total navigation time, mileage, and an image of their destination.
+
+#### My Areas of Focus
+
+
+- I exposed an API that aggregates data from multiple external APIs and requires an authentication token.
+- I ensured that the structure of all responses are JSON API 1.0 Compliant.
+- I tested API calls using WebMock and VCR.
+- I adhered to MVC design principals by organizing logic into intentional facade, PORO, model, serializer, and service files.
