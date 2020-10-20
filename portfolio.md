@@ -47,3 +47,17 @@ Sweater Weather is a Ruby on Rails back-end REST API for a fictional road trip p
 - I ensured that the structure of all responses are JSON API 1.0 Compliant.
 - I tested API calls using WebMock and VCR.
 - I adhered to MVC design principals by organizing logic into intentional facade, PORO, model, serializer, and service files.
+
+### Viewing Party
+
+![Sweater Weather](./assets/img/viewing_party.jpeg)
+
+#### Overview
+
+Viewing Party is an application to explore movies and create a viewing party event for you and your friends to watch a movie together. Users log into the application using Google OAuth and can explore the movie database thanks to the consumption of the MovieDB API.  Users can view information about movies, add friends to their account, and plan viewing parties with their friends that will be added as events to their Google Calendars.
+
+#### My Areas of Focus
+
+- I implemented basic user authentication using Google OAuth and utilized the Google Calendar AP to integrate the app with Google Calendar and enable users to add viewing parties to their calendars.
+- I applied RuboCop’s style guide for code quality.
+- I utilized Continuous Integration using Travis CI.
