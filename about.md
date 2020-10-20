@@ -1,5 +1,5 @@
 ---
-title: Jessye Ejdelman
+title: About Me
 permalink: /about/
 layout: page
 excerpt:
