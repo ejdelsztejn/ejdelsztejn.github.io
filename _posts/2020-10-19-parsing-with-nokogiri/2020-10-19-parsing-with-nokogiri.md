@@ -17,9 +17,8 @@ Our application consumes external API endpoints with relevant drug information. 
 
 We've designed our application so that, when a user searches for a medication by either the brand name or the generic name, an HTTP request is made to an endpoint that sends a response containing the product's NDC ([National Drug Code](https://www.drugs.com/ndc.html)).  The FDA has a number of [free-to-use drug-related API endpoints](https://open.fda.gov/apis/drug/), including one that contains basic information about a given drug by generic or grand name, so this endpoint works for when a user searches for a drug by name in the app.  In order to retrieve the side effect information, my team and I went looking for an additional API that allows us to search for known side effects by a product NDC. We found one on [DrugBank](https://www.drugbank.ca/) that fit our needs perfectly, but it required a paid subscription.  If we have a budget to pay for our API then this would definitely be our go-to.  Thankfully, the FDA also has an adverse reactions endpoint.  Bingo!  The only problem is that the data is contained within a table and looks, to me at least, like an HTML minefield:
 
-![Screen Shot 2020-09-12 at 11.40.04 AM](/Users/jejdelman/Library/Application Support/typora-user-images/Screen Shot 2020-09-12 at 11.40.04 AM.png)
-
-
+![HTML](./assets/img/html.png)
+😱😱😱
 
 This is where Nokogiri comes in.
 
