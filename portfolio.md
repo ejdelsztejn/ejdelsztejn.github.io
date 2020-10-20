@@ -6,9 +6,9 @@ excerpt:
 comments: false
 ---
 #### MSET
+[Repo](https://github.com/gabichuelas/mset_app) | [Application](http://mset-app.herokuapp.com/)
 
 ![MSET](./assets/img/mset.png)
-[Repo](https://github.com/gabichuelas/mset_app) | [Application](http://mset-app.herokuapp.com/)
 
 ##### Overview
 
@@ -56,7 +56,7 @@ Sweater Weather is a Ruby on Rails back-end REST API for a fictional road trip p
 #### Viewing Party
 [Repo](https://github.com/ejdelsztejn/viewing_party) | [Application](http://viewing-party-paired-project.herokuapp.com/)
 
-![Sweater Weather](./assets/img/viewing_party.jpeg)
+![Viewing Party](./assets/img/viewing_party.jpeg)
 
 ##### Overview
 
