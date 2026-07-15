@@ -7,11 +7,11 @@ comments: false
 
 ---
 
-I'm Jessye `with a y`, a software engineer, language-nerd, and lover of geography (especially underrated, mid-sized American cities.)
+I'm Jessye `with a y`, a software engineer, language nerd, and lover of underrated, midsize American cities.
 
-*Ejdelsztejn* is the Polish spelling of a portmanteau of my two family names, *Stein* and *Ejdelman*.  It also happens to mean "gemstone" in Yiddish, which is fitting for a lover of the Ruby programming language.
+I have 3.5 years of experience building backend systems, GraphQL APIs, and AWS infrastructure for a commercial cyber insurance platform. These days, I’m focused on applied AI, workflow automation, and agent-based software.
 
-##### Reach out if you want to talk code... or state capitals
+*Ejdelsztejn* is the Polish rendering of a portmanteau of my two family names, *Stein* and *Ejdelman*. It also happens to mean “gemstone” in Yiddish—a fitting name for someone who loves the Ruby programming language.
 
 ✨*jessye.ejdelman@gmail.com*
 
