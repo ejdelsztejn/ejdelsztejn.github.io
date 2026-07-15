@@ -12,9 +12,10 @@ mode: light # default theme "dark" | "light"
 author:
   name: Jessye Ejdelman
   bio: >-
-    Software engineer building reliable backend systems, APIs, and automations. Currently focused on applied AI and agent-based software.
+    Software engineer building reliable backend systems, APIs, and automations. 
+    Currently focused on applied AI and agent-based software.
 
-    [See selected work](../portfolio/)
+    <a href="/portfolio/">See selected work</a>.
   email: jessye.ejdelman@gmail.com
   avatar: /assets/img/avatar.jpg
 
