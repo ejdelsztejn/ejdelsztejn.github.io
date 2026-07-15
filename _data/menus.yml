@@ -15,5 +15,5 @@
   external: false
 
 - title: resume
-  url: https://www.visualcv.com/jessye-ejdelman/
-  external: true
+  url: /resume/
+  external: false
