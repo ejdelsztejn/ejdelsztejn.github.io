@@ -16,3 +16,6 @@ I have 3.5 years of experience building backend systems, GraphQL APIs, and AWS i
 ✨*jessye.ejdelman@gmail.com*
 
 ✨*github.com/ejdelsztejn*
+
+
+[Earlier technical writing]({{ '/archive/' | relative_url }})
