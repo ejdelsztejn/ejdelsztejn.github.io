@@ -53,6 +53,10 @@ The survey gave Corvus a structured way to incorporate internal security practic
 
 **Technologies:** Elixir, Elm, GraphQL, PostgreSQL
 
+
+-------
+
+
 ## Earlier Work
 
 * [MSET](#mset)
@@ -79,7 +83,6 @@ The idea for this app was pitched and exectued with a team of 4 over the course 
 Our team was invited to present MSET at Turing Demo Comp on October 6, 2020 (video of presentation [here](https://www.youtube.com/watch?v=JzkCOFQSIFQ).)
 
 ##### My Areas of Focus
-
 
 - I created the CRUD functionality for medications and create the user's medication list, as well as the show page for each medication.
 - I enhanced the user experience for logging a symptom via a more intuitive symptom search function, which utilizes a fuzzy string match Ruby library that uses the Jaro–Winkler distance to measure the edit distance between the search keyword and every symptom in the database.
