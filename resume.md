@@ -4,4 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-<object data="../assets/Jessye_Ejdelman_Resume.pdf" width="1000" height="1000" type='application/pdf'></object>
+<iframe src="../assets/Jessye_Ejdelman_Resume.pdf" width="100%" height="600px">
+    <p>This browser does not support PDFs. Please download it instead.</p>
+</iframe>
