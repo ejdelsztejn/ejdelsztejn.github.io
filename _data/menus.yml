@@ -6,10 +6,6 @@
   url: /about/
   external: false
 
-- title: github
-  url: https://github.com/ejdelsztejn
-  external: true
-
 - title: portfolio
   url: /portfolio/
   external: false
@@ -17,3 +13,7 @@
 - title: resume
   url: /resume/
   external: false
+
+- title: github
+  url: https://github.com/ejdelsztejn
+  external: true
