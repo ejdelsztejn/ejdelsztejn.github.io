@@ -1,45 +1,19 @@
-# Klisé
+# Personal Site
 
-Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
-For demo <a href="https://klise.now.sh" target="_blank">klise.now.sh</a>
+My personal website and engineering portfolio:
+[ejdelsztejn.github.io](ejdelsztejn.github.io)
 
-## Features
+The site includes selected case studies from my professional software-engineering work, my current resume, and an archive of earlier technical writing.
 
-- Light & Dark Mode support :waxing_crescent_moon:
-- Customizable (using `.scss`)
-- Responsive (desktop, tab and mobile)
-- Mobile First Design
-- SEO Optimized
-- RSS Feed
-- Syntax Highlighter ([rouge](https://github.com/rouge-ruby/rouge))
-- Next & Previous Post
-- Comment layout, enable in frontmatter if you wish
-- Google analytics
-- HTML Minify ([compressed HTML](https://github.com/penibelst/jekyll-compress-html))
-- W3C **Validated**
-- Lighthouse and PageSpeed **Passed**
-
-![Lighthouse](./lighthouse.png)
+Built with [Jekyll](https://jekyllrb.com/) using the [Klisé](https://github.com/piharpi/jekyll-klise) theme and hosted with GitHub Pages.
 
 ## Installation
 
-Run local server:
+Running locally
 
 ```bash
-git clone https://github.com/piharpi/jekyll-klise.git
-cd jekyll-klise
 bundle install
 bundle exec jekyll serve
 ```
 
-Navigate to `localhost:4000`. You're Welcome, Fork and be Stargaze.
-
-**Don't Forget** to change site icon, go to `jekyll-klise/assets/favicons` and replace with your own.
-
-## Contributing
-
-If you see any typos or formatting errors in a post, or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+Navigate to `localhost:4000`.
