@@ -5,8 +5,22 @@ layout: page
 excerpt:
 comments: false
 ---
+## Portfolio
 
-## Selected Work
+### Nomenhue
+
+A small, beautiful instrument for discovering what a color wants to be called.
+
+[Live](https://nomenhue-ejdelsztejn.zocomputer.io/) · [GitHub](https://github.com/ejdelsztejn/nomenhue)
+
+![Nomenhue](image.png)
+
+Drop in an image and move your cursor across it. The entire page floods with the color beneath your pointer — not a flat fill, but pigment on a material: grain, a hue-tinted vignette, a warm lift in the darkest tones, all computed from the color's own luminance. Click to choose a color, and it is named. Every color is matched to its nearest neighbor among 1,227 public-domain names from two naturalists' color references. You can also request a fresh name and "Coin a new name" sends the hex and its nearest historical neighbors to GPT-4.1, which mints something new in the naturalists' voice.
+
+#### Built with
+Vite · React · TypeScript · Tailwind · Self-hosted fonts · Bun server for the production /api/coin route
+
+## Selected Professional Work
 
 Most of my production engineering work was completed in private repositories. These case studies describe the systems I helped build, the problems I worked on, and the technical decisions involved.
 
